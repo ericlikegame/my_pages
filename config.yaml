@@ -187,7 +187,7 @@ menu:
             icon: brand-github
             
         - identifier: twitter
-          name: Twitter
+          name: 麦默
           url: https://mome.cyuanx.icu/explore
           params:
             icon: brand-twitter
