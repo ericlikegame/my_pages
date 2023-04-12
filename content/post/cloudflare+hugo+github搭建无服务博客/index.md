@@ -8,6 +8,9 @@ categories:
     - 测试
     - hugo
     - github
+tags:
+    - github
+    - hugo
 ---
 
 ## 实现方式
