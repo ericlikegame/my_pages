@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2023
         customText:
 
     dateFormat:
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 很高兴，在茫茫网海遇见你，这里是我的文章分享空间，记录我的一些思想
         avatar:
             enabled: false
             local: true
@@ -182,13 +182,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/ericlikegame/my_pages
           params:
             icon: brand-github
             
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://mome.cyuanx.icu/explore
           params:
             icon: brand-twitter
 
