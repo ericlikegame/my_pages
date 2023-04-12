@@ -7,6 +7,7 @@ categories:
     - Test
     - 测试
     - hugo
+    - github
 ---
 
 ## 实现方式
