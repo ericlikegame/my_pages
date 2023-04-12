@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2023 ERIC瓜瓜
+        since: 2023
         customText:
 
     dateFormat:
@@ -39,9 +39,9 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 很高兴，在茫茫网海遇见你，这里是我的文章分享空间，记录我的一些思想
+        subtitle: 很高兴，在茫茫网海遇见你，这里是我的文章分享空间
         avatar:
-            enabled: false
+            enabled: true
             local: true
             src: img/avatar.png
 
