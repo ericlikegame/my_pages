@@ -2,11 +2,11 @@
 title: cloudflare+hugo+github搭建无服务博客
 description: 通过三者实现无服务博客搭建
 date: 2023-04-12
-slug: test-chinese
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+image: shortcut.png
 categories:
     - Test
     - 测试
+    - hugo
 ---
 
 ## 实现方式
