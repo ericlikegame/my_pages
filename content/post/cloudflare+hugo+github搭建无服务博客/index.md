@@ -4,13 +4,11 @@ description: 通过三者实现无服务博客搭建
 date: 2023-04-12
 image: shortcut.png
 categories:
-    - Test
-    - 测试
-    - hugo
-    - github
+    - 技术
 tags:
     - github
     - hugo
+    - cloudflare
 ---
 
 ## 实现方式
