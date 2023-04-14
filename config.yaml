@@ -190,7 +190,7 @@ menu:
           name: 麦默
           url: https://mome.cyuanx.icu/explore
           params:
-            icon: brand-twitter
+            icon: memos
 
 related:
     includeNewer: true
