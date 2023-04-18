@@ -2,7 +2,7 @@
 title: 在obsibian里使用mind map插件制作简单的思维导图
 description: obsibian中的一个名叫mind map的插件，通过标题、序列制作思维导图
 date: 2023-04-18
-image: mindmap0418.png
+image: https://ericgg-1313408779.cos.ap-nanjing.myqcloud.com/imgs/Pasted%20image%2020230418154710.png
 categories:
     - 技术
 tags:
@@ -33,4 +33,4 @@ tags:
 - pin 把思维导图钉在文章内
 - screenshot 把图截下来复制在文章里
 ## 效果
-![思维导图](mindmap0418.png)
+![思维导图](https://ericgg-1313408779.cos.ap-nanjing.myqcloud.com/imgs/Pasted%20image%2020230418154710.png)
