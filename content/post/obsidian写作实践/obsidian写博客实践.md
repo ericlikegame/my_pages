@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.cursor() %>"
+title: "obsidian写博客实践"
 date: 2023-04-19T15:26:53+0800
 categories: ["技术"]
 tags: ["obsibian", "hugo"]
@@ -26,7 +26,7 @@ hugo博客的自动化发文流程已经很熟练了，在编辑器里写好文�
 ## 实操
 在根目录添加.gitgnore添加.obsibian文件，避免把ob的文件配置也同步到仓库。
 新增文章，使用gitkraken推送文章。
-- 这段代码代表当前文件名为博客名
+- ~~这段代码代表当前文件名为博客名~~
 ```
 <% tp.file.cursor() %>
 ```
