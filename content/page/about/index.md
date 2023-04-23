@@ -1,13 +1,12 @@
 ---
 title: "关于"
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: 关于ERIC瓜瓜的自述
+date: '2023-04-21'
 aliases:
   - about-us
-  - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-04-21'
 menu:
     main: 
         weight: -90
@@ -15,20 +14,27 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+嗨！你好！很高兴能在这里遇见你。这里是ERIC瓜瓜的博客站点，使用的是hugo框架，源码以及数据存储在github，静态页面构建使用的是cloudflare，图片资源存储在腾讯云对象存储，评论系统使用的是twikoo部署在railway。
 
-Hugo makes use of a variety of open source projects including:
+## 为什么要搭建这个博客网站呢？
+原因很简单，我希望可以在有限的自由下记录无限的自由。在2022年，中国大陆疫情管控极度严重的时候，配合疫情管控，我失去了很多自由，甚至包括对生活的向往。而很不幸的是，我当时正在从事疫情防控的政务数据工作，这是件极度无聊的工作。在此期间，我自学了Python，还利用flask搭建一个简单的博客系统。从此我对博客产生了兴趣。有人会说，都2023年了，在这个短视频横行的时代，看博客的人少之又少。大家情愿在微博上刷一刷，去抖音刷一刷，再者也是回去哔哩哔哩看视频，对于博客耐心与好奇可以说几乎没有。可是，我发现博客有一个好处就是折腾。这听上去不像是好处，更像是难点，就像本博客搭建的方式就有够复杂的。对于爱折腾的人来说，这足够有趣。想一想，为什么会这么晚才接触博客？大概是受QQ空间的影响，再加上我是成长于移动互联网的时代。当我小学在折腾QQ空间的时候，发现只要充钱开黄钻就可以让自己的网页变酷变帅，那时候大家喜欢发说说，偶尔也会转发一些“不转不是中国人”的日志。这听上去真的很搞笑。小时候很喜欢玩游戏，对于计算机的技术也只是停留在可以玩游戏，这也就导致了几乎没有对博客有一个了解。
+在我的理解，博客更像是一个日记本，记录一些随时会忘记的折腾记录。那记录下来吧，未尝不可。常常被告知，我的表达能力很欠缺，我想通过文字来记录会是一个不错的提升方式。
+所以为什么要搭建博客网站呢？记录折腾，记录拍过的风景，分享日常生活，不奢求有更多的人看见，但愿自己多年后回顾起来，像是做了件那么有趣的事情。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 梦想与未来
+### 梦想
+三年级的一件教室里，一位老师问：孩子们，你们都有什么梦想呢？有学生回答要当大老板，有回答要当医生、当警察、当消防员、当公务员等等。有个小男孩举手回答说：“我要当厨师，因为我爸爸是厨师，我觉得他是世界上最伟大的人。”此时全班哄堂大笑。从此，这个男孩，每当老师要问他有什么梦想时，他会说警察、当兵，说那些大家都会认同的答案。那个男孩就是我。那我现在的梦想是什么呢？
+- 游戏设计师
+成长于互联网与移动互联网高速发展的年代，小时候家里开饭店，老爸给妈妈买了一个八千块的诺基亚，那时候觉得超酷，竟然可以玩彩色的贪吃蛇游戏，再后来我经常躲在桌子底下玩客人的手机，像那个熊猫下树、上下控制直升飞机的flaybird都觉得超好玩。不得不承认，玩游戏对我而言是一种逃避手段吧，像是我的第二精神空间。我的家庭跟很多普通家庭一样，会觉得游戏是祸害人的一种瘾性毒品，父母也会说不可以玩游戏，也不许买电脑。也许正是这种一刀切的拒绝，更让我对游戏充满好奇，当我有了第一部手机的时候我就疯狂在小游戏网站下载游戏，上百度查找攻略。爱玩游戏，在游戏中探索世界，是我对世界有不同的认识。这种认识，一直延续到我高中毕业选高考志愿，考入计算机专业，但由于分数过低并没能如愿。再后来大学期间，就是拿着电脑疯狂打游戏，像是在弥补那些年失去的乐趣，其实不然，我很后悔这种弥补。这更像是一种报复性的玩乐，大好时光浪费掉了。
+- 成为导演
+我向来也不算是孤独的人，但确是一个孤僻的人。自从姐姐去了市里读高中，我的生活就格外的无聊，外加上父母回到了家乡后就劳苦于工作中，对我的关心就只有停留在那可怜的吃饭时间。他们时常在饭桌上给我上政治课，叫我好好读书，不许玩游戏，不许出去乱带朋友回来，不许去别的同学家。我时常觉得很愤懑，父母站的角度像是绝对的正确，以至于我想反驳又那么苍白无力。他们会告诉我说，你需要表达你的想法让父母知道。可无论怎么说，最终都会是父母是正确的。这种绝对正确，让我在饭桌上选择以哭泣和愤然离场吃饱了来抗议。以上所述多少有点孩子气。除了玩游戏，我就只有看电影了。以至于周末我会锁定CCTV6看一整天的电影，我想什么时候我也要拍一部属于自己的电影。
+现在看来这些梦想已经很容易实现了，拿着一部手机就可以拍出一部短片，一台电脑就可以写出成堆的游戏代码。因为喜欢，而真正成为梦想，是多么纯真。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## 未来
+目前是一位打杂（外包）人员在某政府单位，从事着一些政务相关的工作。外包人员能有什么未来，这样说过于的不自信。一个月几千的工资，是很低，相对而言的自由是可以让我从中有更多的时间寻找自我。未来是什么？结婚生子还是升学深造，跳槽寻求高薪还是考取稳定的事业单位。迷茫的时候，很希望有人指点。但自己的人生要自己走。我一直坚信，只要足够努力，我会在这个社会上立足。未来，自然是更好。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 最后
+我还是要提高一下自己的表达能力，通过记录再表述出来的方式一定会很有效。
+那么这个站点，见证我的变化与成长！
+常常想让自己变得更加优秀，那么现在就开始行动起来。
+学python时笃信一条道理：先行动再优化，先解决有无再逐步丰富。

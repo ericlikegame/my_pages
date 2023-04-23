@@ -1,14 +1,14 @@
 ---
 title: "链接"
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: ERIC的个人站点
+    description: 记录ERIC的个人日常以及技术分享
+    website: https://www.cyuanx.icu
+    image: https://raw.githubusercontent.com/ericlikegame/picture/master/IMG_2801.png
+  - title: ERIC麦默
+    description: ERIC的备忘录合集
+    website: https://mome.cyuanx.icu
+    image: https://raw.githubusercontent.com/ericlikegame/picture/master/IMG_2801.png
 menu:
     main: 
         weight: -50
@@ -18,20 +18,3 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
