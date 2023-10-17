@@ -7,7 +7,7 @@ links:
     image: https://raw.githubusercontent.com/ericlikegame/picture/master/IMG_2801.png
   - title: ERIC麦默
     description: ERIC的备忘录合集
-    website: https://mome.cyuanx.icu
+    website: https://www.arkgg.top
     image: https://raw.githubusercontent.com/ericlikegame/picture/master/IMG_2801.png
 menu:
     main: 
